@@ -31,7 +31,6 @@ layout: home
 
 <iframe src="http://127.0.0.1:4000/GitHub_Pages/map2.html" width="100%" height="600" style="border:none;"></iframe>
 
-</body>
 
 
 
