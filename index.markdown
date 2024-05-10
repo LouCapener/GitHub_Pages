@@ -6,7 +6,14 @@ layout: home
 ---
 
 
-<head><meta charset="utf-8" /></head>
+<head><meta charset="utf-8" />
+    <style>
+        /* CSS for central alignment */
+        .container {
+            text-align: center;
+        }
+    </style>
+</head>
 <body>
 
     <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
