@@ -30,7 +30,7 @@ layout: home
 
 
 <img src="trans_men_map.png" alt="Map of trans men in UK">
-
+<p>To interact with this map, please visit this <a href = "https://trans-men-uk-map.netlify.app/">link</a>: .</p>
 
 
 
