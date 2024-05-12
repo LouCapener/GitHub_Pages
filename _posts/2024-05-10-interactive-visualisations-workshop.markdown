@@ -41,3 +41,5 @@ Hi there. If you're interested in learning how to create your own interactive vi
 <!-- Image, text, and link -->
 <img src="trans_men_map.png" alt="Map of trans men in UK">
 <p>To interact with this map, please visit this <a href="https://trans-men-uk-map.netlify.app/">link</a>.</p>
+
+<iframe src="https://trans-men-uk-map.netlify.app" width="100%" height="600px" style="border:none;"></iframe>
